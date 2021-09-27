@@ -1,0 +1,11 @@
+body{
+    text-align:center;
+     
+          background-color:deepskyblue;
+    background-image:linear-gradient(
+        #ede6eb,#d4c3ce, #b0a4ac,#808080, #474246
+  );
+}
+#Toho_beads_toho{
+    width: 1900px;
+}
